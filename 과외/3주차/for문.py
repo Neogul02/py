@@ -1,3 +1,7 @@
+# for 변수 in 리스트(도는 튜플, 문자열):
+#   수행할 문장 1
+#   수행할 문장 2
+
 test_list = ["one", "two", "three"]
 for i in test_list:
     print(i)
