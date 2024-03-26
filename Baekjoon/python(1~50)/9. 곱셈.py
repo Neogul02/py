@@ -1,7 +1,0 @@
-A = input()
-B = input()
-int_A = int(A)
-print(int_A*int(B[2]))
-print(int_A*int(B[1]))
-print(int_A*int(B[0]))
-print(int(A)*int(B))
